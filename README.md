@@ -8,3 +8,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+To view our project 
+https://ipl-predictor-1-monish-venkats-projects.vercel.app/
